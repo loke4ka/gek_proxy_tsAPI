@@ -1,6 +1,5 @@
 # gek_proxy_tsAPI
 
-Endpoint	Method	Description	Request Parameters	Request Body	Response Body
 | Endpoint                 | Method | Description                                  | Request Parameters | Request Body        | Response Body         |
 |--------------------------|--------|----------------------------------------------|--------------------|---------------------|-----------------------|
 | /api/proxy               | GET    | Get a list of proxies                        | -                  | -                   | List of Proxy objects |
